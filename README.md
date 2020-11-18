@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**romainx/romainx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Romain :chipmunk:
 
-Here are some ideas to get you started:
+### Working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Hadoop & Spark
+* Kubernetes & Docker
+* Jupyter & RStudio
+* Python & R
+* Linux & open source
+
+### Contributions
+
+* [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks)
+* [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
+* [Stack Overflow](https://stackoverflow.com/users/4413446/romain)
+* [GoodReads](https://www.goodreads.com/user/show/3079764-romain)
+
+I'm a book lover and I have a [blog](https://aubonroman.com) (in french) dedicated to my readings.
