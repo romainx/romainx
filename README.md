@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm **Romain** :chipmunk:
+### Hi there 👋 I'm **Romain** :chipmunk:
 
 * **Working on**
   * Hadoop & Spark
