@@ -13,4 +13,4 @@
   * [Stack Overflow](https://stackoverflow.com/users/4413446/romain)
   * [GoodReads](https://www.goodreads.com/user/show/3079764-romain)
 * **Misc**
-  * I'm a book lover and I have a [blog](https://aubonroman.com) (in french) dedicated to my readings.
+  * I'm in :heart: with :books: I have a [blog](https://aubonroman.com) (in french) dedicated to my readings.
